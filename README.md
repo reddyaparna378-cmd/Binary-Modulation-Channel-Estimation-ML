@@ -21,7 +21,7 @@ The system evaluates communication performance using metrics such as Bit Error R
 
 ---
 
-## Technologies Used
+# Technologies Used
 
 - Python 3.10
 - TensorFlow
@@ -80,7 +80,7 @@ The project generates the following graphs:
 
 # Installation
 
-Clone the repository:
+
 
 Install required libraries:
 
